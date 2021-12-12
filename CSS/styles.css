@@ -1,0 +1,198 @@
+body
+{
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  line-height: 2;
+}
+.top-container
+{
+  background-color: #D4ECDD;
+  padding-top: 100px;
+  position: relative;
+}
+.f1
+{
+  margin: 60px auto 0 auto;
+  font-size: 4.5rem;
+  color: #112031;
+  font-family: 'Sacramento', cursive;
+}
+h2
+{
+  font-size: 1.7rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #E45826;
+  font-weight: normal;
+}
+h3
+{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.pro
+{
+  text-decoration: underline;
+}
+
+#cloud1
+{
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  right: 400px;
+  top: 110px;
+}
+#cloud2
+{
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  right: 870px;
+  top: 250px;
+}
+#garden
+{
+  height: 500px;
+  width: 1000px;
+}
+.profile
+{
+  position: relative;
+}
+#mypic
+{
+  width: 250px;
+  border-color: white;
+  border-width: 5px;
+  border-style: solid;
+  border-radius: 50%;
+}
+.profile
+{
+  background-color: #112031;
+  color: white;
+  padding: 100px;
+}
+#clg{
+  color: #FFEBA1;
+}
+
+
+.skills{
+  border: 0px;
+  padding: 50px;
+  background-color: #112031;
+  margin-top: 0px;
+  color: white;
+}
+
+#sun{
+  width: 200px;
+  position: absolute;
+  top: 150px;
+  right: 920px;
+}
+#third-container
+{
+  margin-top: 0px;
+  background-color: #152D35;
+}
+.myskills
+{
+  background-color: #E45826;
+
+  color: #152D35;
+
+
+}
+#brain
+{
+  width: 80px;
+}
+.contact
+{
+  background-color: #E45826;
+
+  color: #152D35;
+}
+
+.btn
+{
+  color: #FFEBA1;
+}
+.bottom-container
+{
+  background-color: #112031;
+  color: white;
+  padding: 30px;
+}
+.footer-link{
+  color: white;
+}
+#phone
+{
+  width: 80px;
+}
+#linkedin
+{
+  width: 60px;
+}
+#twitter
+{
+  width: 85px;
+}
+#insta
+{
+  width: 50px;
+}
+#git
+{
+  width: 50px;
+}
+#email
+{
+  width: 50px;
+}
+.skills-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+#skill-code
+{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+#skill-dev
+{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+
+.BUTTON_PCR {
+   -webkit-border-radius: 2px;
+   -moz-border-radius: 2px;
+   border-radius: 10px;
+   color: #FFFFFF;
+   font-family: Verdana;
+   font-size: 20px;
+  padding: 2px 5px 2px 5px;
+   font-weight: 100;
+
+   box-shadow-color: ;
+   box-shadow-horizontal: 1;
+   box-shadow-vertical: 1;
+   box-shadow-blur: 20;
+   box-shadow-spread: 0;
+   background-color: #0A81AB;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #0A81AB 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
